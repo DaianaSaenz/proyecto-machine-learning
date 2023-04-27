@@ -1,5 +1,5 @@
 ### Proyecto de Machinne Learning: Prediccion de Abandono de Cliente del Sector Bancario  
-![](imagenes/foto_noticia.jpg)  
+![](./src/imagenes/foto_noticia.jpg)  
 
 En este trabajo, voy a predecir mediante modelos de Machinne Learning la probabilidad de abandono de un cliente del sector Bancario; para lo cual me eh planteado realizar varios modelos de Machinne Learning Supervisado y dentro e estos modelos verificar los que son de tipo Clasificador, para obtener como prediccion dos clases: Cliente que Abandona, Cliente que Continua en el banco. Eh utilizado en total tres modelos de prediccion: Regresion logistica, Decission tree y Random Forest, mas abajo encontratas los enlaces que te redireccionan a los modelos.
 
