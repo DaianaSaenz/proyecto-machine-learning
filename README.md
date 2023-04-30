@@ -5,7 +5,7 @@ En este trabajo, voy a predecir mediante modelos de Machinne Learning la probabi
 
 Para la realizacion del Proyecto eh accedido a un CSV. de la pagina web KAGGLE que contiene la informacion pertinente a mi caso de uso; este data set fue limpiado y procesado para analizar las columnas mas mas relevantes a ser incorporadas en mi modelo de prediccion.  
 
-Para acceder a ver el archivo te dejo aqui el enlace: [notebooks](https://github.com/DaianaSaenz/proyecto-machine-learning/blob/master/src/notebooks/limpieza_datos.ipynb).  
+Para acceder a ver el archivo te dejo aqui el enlace: [processed](https://github.com/DaianaSaenz/proyecto-machine-learning/tree/master/src/data/processed).  
 
 Algunas de las librerias utilizadas fueron:  
 Numpy  
